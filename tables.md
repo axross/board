@@ -6,7 +6,7 @@
 - key
 - email
 - name
-- image_url
+- imageUrl
 - bio
 - twitterKey
 - githubKey
@@ -22,7 +22,6 @@
 - body
 - tags
 - publishedAt
--
 
 ## Tags
 
