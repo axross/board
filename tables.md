@@ -28,3 +28,8 @@
 - id
 - key
 - name
+
+## Image
+
+- id
+- s3Url
